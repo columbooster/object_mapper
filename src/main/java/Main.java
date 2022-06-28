@@ -59,6 +59,7 @@ public class Main {
 
         System.out.println(objectNode.toPrettyString());
 
+        // 어노테이션 활용 복습
 
     }
 
